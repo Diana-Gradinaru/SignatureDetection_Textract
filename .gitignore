@@ -1,0 +1,10 @@
+.local
+.debug
+.screenshots
+.tmh
+Exception_Screenshots
+Documentation
+Tests/RunAllTests.xaml
+Tests/RunAllTests_Logging.xaml
+Tests/TestLog.txt
+Tests/Tests.xlsx
