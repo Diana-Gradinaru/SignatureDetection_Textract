@@ -1,6 +1,6 @@
 {
-  "name": "TextractPython",
-  "description": "Blank Process",
+  "name": "SignatureDetection_Textract",
+  "description": "Processes documents of type W-9 ewith AWS's Textract in order to identify whether they have a signature in the signature field or not, then writes the results in an excel file.",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.16.0]",
